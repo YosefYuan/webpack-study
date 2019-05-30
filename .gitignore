@@ -4,6 +4,9 @@
 # production：
 /build
 
+# build
+/dist
+
 /.idea/
 
 # misc
